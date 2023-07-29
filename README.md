@@ -7,7 +7,7 @@
 - ✋ Nice to meet you, I am Maro.
 - 📚 I am a web publisher studying frontend development.
 - 🎨 I have a hobby of 3D modeling with Blender.
-
+<br/>
 <!--Languages Tools -->
 
 ## Languages and Tools
@@ -17,6 +17,7 @@
 <br/><img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF">
 <img src="https://img.shields.io/badge/blender-000000?style=for-the-badge&logo=blender&logoColor=F5792A">
 
+<br/>
 <!-- Statistical -->
 
 ## Statistical Data
