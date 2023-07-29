@@ -5,6 +5,8 @@
 📚 I am a web publisher studying frontend development.<br/>
 🎨 I have a hobby of 3D modeling with Blender.
 
+<br/>
+
 <!--Languages Tools -->
 
 ## Languages and Tools
@@ -15,7 +17,5 @@
 <img src="https://img.shields.io/badge/blender-000000?style=for-the-badge&logo=blender&logoColor=F5792A">
 
 <!-- Statistical -->
-
-## Statistical Data
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maro911220&layout=compact&theme=dracula)
