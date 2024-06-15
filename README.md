@@ -3,7 +3,6 @@
 # 👋 Nice to meet you, I am Maro.
 
 📚 I am a web publisher studying frontend development.<br/>
-🎨 I have a hobby of 3D modeling with Blender.
 
 <br/>
 
